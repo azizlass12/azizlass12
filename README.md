@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://azizlassoued.netlify.app/](https://azizlassoued.netlify.app/)
 
-- 💬 Ask me about **Angular js**
+- 💬 Ask me about **Angular**
 
 - 📫 How to reach me **azizlassoueed@gmail.com**
 
