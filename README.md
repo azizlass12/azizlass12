@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Tunisie immobilier Company**
 
-- 👨‍💻 All of my projects are available at [https://azizlassoued.netlify.app/](https://azizlassoued.twilou.space/)
+- 👨‍💻 All of my projects are available at [https://azizlassoued.twilou.space/](https://azizlassoued.twilou.space/)
 
 - 💬 Ask me about **Angular**
 
